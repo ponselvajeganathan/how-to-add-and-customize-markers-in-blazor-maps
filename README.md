@@ -1,18 +1,38 @@
 # How to Add and Customize Markers in the Blazor Maps Control
 
-This sample explains about how to add and customize markers in a Syncfusion Blazor Maps component using Blazor WebAssembly app. This project also includes a code snippet to change the marker shape, customize the color and shape of the markers from the maps data source and how to add tooltips and format them.
+This sample demonstrates how to add and customize markers in the Syncfusion **Blazor Maps** component using a **Blazor WebAssembly** application. It focuses on working with map markers sourced from data, including customizing their shapes and colors, as well as enhancing them with informative tooltips. The project serves as a practical reference for developers looking to understand marker-related features in Blazor Maps.
 
-**Examples**: https://blazor.syncfusion.com/demos/maps/marker?theme=bootstrap5  
+## Project Overview
 
-**Documentation**: https://blazor.syncfusion.com/documentation/maps/markers 
+The application showcases how geographic data can be visually represented using markers on maps. It explains how markers can be configured through the Maps data source and how visual properties such as shape and color can be adjusted to improve clarity and presentation. The sample also includes tooltip customization to display formatted information when a marker is hovered or selected.
+
+## Features
+
+- Add markers to the Syncfusion Blazor Maps component  
+- Customize marker shape and color using data source settings  
+- Display tooltips for map markers  
+- Format tooltip content for better readability  
 
 ## Prerequisites
 
-* Visual Studio 2022
+To run and explore this sample, ensure you have the following:
 
-## How to run the project
+- Visual Studio 2022  
+- .NET SDK compatible with Blazor WebAssembly  
+- Basic knowledge of Blazor and C#  
 
-* Checkout this project to a location in your disk.
-* Open the solution file using the Visual Studio 2022.
-* Restore the NuGet packages by rebuilding the solution.
-* Run the project.
+## How to Run the Project
+
+1. Check out or download this project to a local directory.
+2. Open the solution file using **Visual Studio 2022**.
+3. Restore the required NuGet packages by rebuilding the solution.
+4. Run the project to view the Blazor Maps marker customization in action.
+
+## Usage
+
+Once the application is running, explore how markers are rendered on the map. The sample illustrates how changes in the data source affect marker appearance and how tooltips provide contextual information for each location.
+
+## Additional Resources
+
+- **Live Examples**: https://blazor.syncfusion.com/demos/maps/marker?theme=bootstrap5
+- **Documentation**: https://blazor.syncfusion.com/documentation/maps/markers
