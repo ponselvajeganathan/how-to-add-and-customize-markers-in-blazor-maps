@@ -48,11 +48,6 @@ This sample demonstrates marker rendering and customization using the Syncfusion
 dotnet restore
 dotnet run
 ```
-
-## Project Structure
-
-`Client/Pages/Index.razor` — Contains the primary Syncfusion Maps implementation, marker configuration, marker customization logic, tooltip rendering, and geographic visualization settings.
-
 ## Support and Feedback
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
